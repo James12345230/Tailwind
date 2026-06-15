@@ -1,0 +1,348 @@
+{
+  "categories": [
+    {
+      "id": "todo",
+      "title": "To do",
+      "icon": "checkbox-empty",
+      "theme": {
+        "background": "#eef2fb",
+        "accent": "#3b5bdb"
+      }
+    },
+    {
+      "id": "progress",
+      "title": "In progress",
+      "icon": "hourglass",
+      "theme": {
+        "background": "#fdf3e7",
+        "accent": "#b9770e"
+      }
+    },
+    {
+      "id": "done",
+      "title": "Done",
+      "icon": "checkbox-checked",
+      "theme": {
+        "background": "#fdeeee",
+        "accent": "#c0392b"
+      }
+    }
+  ],
+  "tasks": [
+    {
+      "id": 1,
+      "name": "Leanne Graham",
+      "profileImage": "https://i.pravatar.cc/100?img=1",
+      "description": "Draft the initial wireframes for the new onboarding flow and share with the design team.",
+      "category": "todo"
+    },
+    {
+      "id": 2,
+      "name": "Ervin Howell",
+      "profileImage": "https://i.pravatar.cc/100?img=2",
+      "description": "Research competitor pricing models and compile findings into a summary document.",
+      "category": "todo"
+    },
+    {
+      "id": 3,
+      "name": "Clementine Bauch",
+      "profileImage": "https://i.pravatar.cc/100?img=3",
+      "description": "Set up the project repository and configure the development environment.",
+      "category": "todo"
+    },
+    {
+      "id": 4,
+      "name": "Patricia Lebsack",
+      "profileImage": "https://i.pravatar.cc/100?img=4",
+      "description": "Write user stories for the upcoming sprint based on stakeholder feedback.",
+      "category": "todo"
+    },
+    {
+      "id": 5,
+      "name": "Chelsey Dietrich",
+      "profileImage": "https://i.pravatar.cc/100?img=5",
+      "description": "Schedule kickoff meeting with the client to align on project scope and timeline.",
+      "category": "todo"
+    },
+    {
+      "id": 6,
+      "name": "Dennis Schulist",
+      "profileImage": "https://i.pravatar.cc/100?img=6",
+      "description": "Audit the current landing page for accessibility issues and list improvements.",
+      "category": "todo"
+    },
+    {
+      "id": 7,
+      "name": "Kurtis Weissnat",
+      "profileImage": "https://i.pravatar.cc/100?img=7",
+      "description": "Create a content calendar for the next quarter's social media campaign.",
+      "category": "todo"
+    },
+    {
+      "id": 8,
+      "name": "Nicholas Runolfsdottir",
+      "profileImage": "https://i.pravatar.cc/100?img=8",
+      "description": "Outline the API endpoints required for the user authentication module.",
+      "category": "todo"
+    },
+    {
+      "id": 9,
+      "name": "Glenna Reichert",
+      "profileImage": "https://i.pravatar.cc/100?img=9",
+      "description": "Gather requirements from the marketing team for the email newsletter redesign.",
+      "category": "todo"
+    },
+    {
+      "id": 10,
+      "name": "Clementina DuBuque",
+      "profileImage": "https://i.pravatar.cc/100?img=10",
+      "description": "Prepare a list of test cases for the checkout process before development begins.",
+      "category": "todo"
+    },
+    {
+      "id": 11,
+      "name": "Marcus Bennett",
+      "profileImage": "https://i.pravatar.cc/100?img=11",
+      "description": "Design the database schema for storing customer order history.",
+      "category": "todo"
+    },
+    {
+      "id": 12,
+      "name": "Aisha Okafor",
+      "profileImage": "https://i.pravatar.cc/100?img=12",
+      "description": "Collect brand assets and style guidelines from the client for the website rebuild.",
+      "category": "todo"
+    },
+    {
+      "id": 13,
+      "name": "Diego Ramirez",
+      "profileImage": "https://i.pravatar.cc/100?img=13",
+      "description": "Define success metrics and KPIs for the product launch next month.",
+      "category": "todo"
+    },
+    {
+      "id": 14,
+      "name": "Yuki Tanaka",
+      "profileImage": "https://i.pravatar.cc/100?img=14",
+      "description": "Sketch out the mobile navigation structure for the companion app.",
+      "category": "todo"
+    },
+    {
+      "id": 15,
+      "name": "Fatima Al-Sayed",
+      "profileImage": "https://i.pravatar.cc/100?img=15",
+      "description": "Compile a list of third-party integrations needed for the payment gateway.",
+      "category": "todo"
+    },
+    {
+      "id": 16,
+      "name": "Liam O'Connor",
+      "profileImage": "https://i.pravatar.cc/100?img=16",
+      "description": "Building the responsive layout for the dashboard using the new component library.",
+      "category": "progress"
+    },
+    {
+      "id": 17,
+      "name": "Sofia Rossi",
+      "profileImage": "https://i.pravatar.cc/100?img=17",
+      "description": "Implementing the search functionality with real-time filtering on the tasks page.",
+      "category": "progress"
+    },
+    {
+      "id": 18,
+      "name": "Noah Williams",
+      "profileImage": "https://i.pravatar.cc/100?img=18",
+      "description": "Refactoring the legacy authentication code to use the updated security standards.",
+      "category": "progress"
+    },
+    {
+      "id": 19,
+      "name": "Maya Patel",
+      "profileImage": "https://i.pravatar.cc/100?img=19",
+      "description": "Writing unit tests for the shopping cart logic and fixing edge-case bugs.",
+      "category": "progress"
+    },
+    {
+      "id": 20,
+      "name": "Lucas Schmidt",
+      "profileImage": "https://i.pravatar.cc/100?img=20",
+      "description": "Integrating the third-party email service into the notification system.",
+      "category": "progress"
+    },
+    {
+      "id": 21,
+      "name": "Amara Johnson",
+      "profileImage": "https://i.pravatar.cc/100?img=21",
+      "description": "Migrating the user data from the old database to the new cloud infrastructure.",
+      "category": "progress"
+    },
+    {
+      "id": 22,
+      "name": "Hiroshi Sato",
+      "profileImage": "https://i.pravatar.cc/100?img=22",
+      "description": "Developing the drag-and-drop feature for reordering items within each column.",
+      "category": "progress"
+    },
+    {
+      "id": 23,
+      "name": "Elena Petrova",
+      "profileImage": "https://i.pravatar.cc/100?img=23",
+      "description": "Styling the settings page to match the latest Figma designs from the team.",
+      "category": "progress"
+    },
+    {
+      "id": 24,
+      "name": "Omar Hassan",
+      "profileImage": "https://i.pravatar.cc/100?img=24",
+      "description": "Connecting the front-end forms to the back-end API and handling validation.",
+      "category": "progress"
+    },
+    {
+      "id": 25,
+      "name": "Grace Kim",
+      "profileImage": "https://i.pravatar.cc/100?img=25",
+      "description": "Optimizing image loading on the gallery page to improve performance scores.",
+      "category": "progress"
+    },
+    {
+      "id": 26,
+      "name": "Tobias Nielsen",
+      "profileImage": "https://i.pravatar.cc/100?img=26",
+      "description": "Setting up the continuous integration pipeline for automated deployments.",
+      "category": "progress"
+    },
+    {
+      "id": 27,
+      "name": "Priya Sharma",
+      "profileImage": "https://i.pravatar.cc/100?img=27",
+      "description": "Coding the dark mode toggle and persisting the user's theme preference.",
+      "category": "progress"
+    },
+    {
+      "id": 28,
+      "name": "Mateo Garcia",
+      "profileImage": "https://i.pravatar.cc/100?img=28",
+      "description": "Reviewing pull requests from the team and leaving feedback on the new feature branch.",
+      "category": "progress"
+    },
+    {
+      "id": 29,
+      "name": "Zara Ahmed",
+      "profileImage": "https://i.pravatar.cc/100?img=29",
+      "description": "Debugging the date-picker component that fails on certain timezone settings.",
+      "category": "progress"
+    },
+    {
+      "id": 30,
+      "name": "Felix Wagner",
+      "profileImage": "https://i.pravatar.cc/100?img=30",
+      "description": "Wiring up analytics events to track how users interact with the new homepage.",
+      "category": "progress"
+    },
+    {
+      "id": 31,
+      "name": "Ingrid Larsen",
+      "profileImage": "https://i.pravatar.cc/100?img=31",
+      "description": "Completed the user registration form with full validation and error handling.",
+      "category": "done"
+    },
+    {
+      "id": 32,
+      "name": "Carlos Mendez",
+      "profileImage": "https://i.pravatar.cc/100?img=32",
+      "description": "Deployed the marketing landing page to production and verified all links work.",
+      "category": "done"
+    },
+    {
+      "id": 33,
+      "name": "Nadia Volkov",
+      "profileImage": "https://i.pravatar.cc/100?img=33",
+      "description": "Fixed the critical bug causing the app to crash on the profile settings screen.",
+      "category": "done"
+    },
+    {
+      "id": 34,
+      "name": "Ethan Brooks",
+      "profileImage": "https://i.pravatar.cc/100?img=34",
+      "description": "Delivered the Q2 performance report to stakeholders ahead of the deadline.",
+      "category": "done"
+    },
+    {
+      "id": 35,
+      "name": "Leila Karimi",
+      "profileImage": "https://i.pravatar.cc/100?img=35",
+      "description": "Finalized the color palette and typography for the brand style guide.",
+      "category": "done"
+    },
+    {
+      "id": 36,
+      "name": "Daniel Cohen",
+      "profileImage": "https://i.pravatar.cc/100?img=36",
+      "description": "Migrated all blog content to the new CMS and confirmed formatting is intact.",
+      "category": "done"
+    },
+    {
+      "id": 37,
+      "name": "Ava Thompson",
+      "profileImage": "https://i.pravatar.cc/100?img=37",
+      "description": "Launched the referral program and confirmed reward emails are sending correctly.",
+      "category": "done"
+    },
+    {
+      "id": 38,
+      "name": "Ravi Gupta",
+      "profileImage": "https://i.pravatar.cc/100?img=38",
+      "description": "Resolved all accessibility warnings flagged in the latest audit report.",
+      "category": "done"
+    },
+    {
+      "id": 39,
+      "name": "Camille Dubois",
+      "profileImage": "https://i.pravatar.cc/100?img=39",
+      "description": "Set up automated daily backups for the production database successfully.",
+      "category": "done"
+    },
+    {
+      "id": 40,
+      "name": "Sven Eriksson",
+      "profileImage": "https://i.pravatar.cc/100?img=40",
+      "description": "Shipped the password-reset flow and tested it across all major browsers.",
+      "category": "done"
+    },
+    {
+      "id": 41,
+      "name": "Isabella Moretti",
+      "profileImage": "https://i.pravatar.cc/100?img=41",
+      "description": "Completed onboarding documentation for new team members joining next week.",
+      "category": "done"
+    },
+    {
+      "id": 42,
+      "name": "Jamal Wright",
+      "profileImage": "https://i.pravatar.cc/100?img=42",
+      "description": "Integrated the payment gateway and processed a successful test transaction.",
+      "category": "done"
+    },
+    {
+      "id": 43,
+      "name": "Hannah Becker",
+      "profileImage": "https://i.pravatar.cc/100?img=43",
+      "description": "Redesigned the email templates and confirmed they render well on mobile.",
+      "category": "done"
+    },
+    {
+      "id": 44,
+      "name": "Kenji Nakamura",
+      "profileImage": "https://i.pravatar.cc/100?img=44",
+      "description": "Archived the old project files and organized the shared drive structure.",
+      "category": "done"
+    },
+    {
+      "id": 45,
+      "name": "Olivia Murphy",
+      "profileImage": "https://i.pravatar.cc/100?img=45",
+      "description": "Published the API documentation and shared the link with the partner team.",
+      "category": "done"
+    }
+  ]
+}
